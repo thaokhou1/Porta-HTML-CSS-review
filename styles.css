@@ -89,6 +89,7 @@ footer{
 /* --------------------------------------------------------- */
 .bold{
     font-weight: 900;
+    color: red;
 }
 
 .updateOrderBtn{
